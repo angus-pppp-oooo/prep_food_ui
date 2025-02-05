@@ -1,0 +1,1 @@
+ C:\\Users\\angus\\Documents\\Projects\\prep_food_ui\\.dart_tool\\flutter_build\\1a2af6c823e76a38892c91e7a89419a1\\native_assets.yaml: 
